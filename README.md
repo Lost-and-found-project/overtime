@@ -3,6 +3,9 @@
 
 Overtime是一个可自布署的加班记录项目，后面的我还没想好。
 
+<details> 
+<summary>尚在开发</summary>
+
 ## 简介
 
 
@@ -12,3 +15,4 @@ Overtime是一个可自布署的加班记录项目，后面的我还没想好。
 - [ ] [Overtime-client-web](https://github.com/Lost-and-found-project/overtime-client-web): 基于 [Vue3.0](https://v3.cn.vuejs.org/) 的Web客户端。
 
 
+</details>
