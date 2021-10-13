@@ -1,3 +1,6 @@
 [submodule "overtime-server-springboot"]
 	path = overtime-server-springboot
 	url = git@github.com:Lost-and-found-project/overtime-server-springboot.git
+[submodule "overtime-client-web"]
+	path = overtime-client-web
+	url = git@github.com:Lost-and-found-project/overtime-client-web.git
